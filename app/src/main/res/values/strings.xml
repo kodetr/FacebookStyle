@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Status Facebook</string>
+
+    <string name="about_developers_label">Main developers</string>
+    <string name="about_translator_label">Translator</string>
+    <string name="changelog">Changelog</string>
+    <string name="translator"></string>
+    <string name="about_libraries_label">Used libraries</string>
+    <string name="download">Download here</string>
+    <string name="nav_about">CodeTR</string>
+    <string name="aboutme">Comments Style</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2766699906529930/1250564540</string>
+    <string name="AppQuizTR">ca-app-pub-2766699906529930~7077606296</string>
+</resources>
